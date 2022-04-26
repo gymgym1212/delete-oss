@@ -1,0 +1,11 @@
+#IDEA
+.idea/
+
+# VSCode
+.vscode/
+
+# node dependencies
+node_modules/
+
+# mac
+.DS_Store

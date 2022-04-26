@@ -1,0 +1,30 @@
+{
+  "name": "delete-oss",
+  "version": "0.1.0",
+  "description": "Delete aliyun oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gymgym1212/delete-oss.git"
+  },
+  "keywords": [
+    "github",
+    "action",
+    "aliyun",
+    "oss"
+  ],
+  "author": "Yeming Gu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gymgym1212/delete-oss/issues"
+  },
+  "homepage": "https://github.com/gymgym1212/delete-oss#readme",
+  "dependencies": {
+    "@actions/core": "^1.7.0",
+    "ali-oss": "^6.17.1"
+  }
+}
